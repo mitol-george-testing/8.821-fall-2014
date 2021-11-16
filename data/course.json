@@ -1,0 +1,39 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Particle Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Theoretical Physics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "a084db3f-ef13-beb4-52b9-7d2ff87ceb36"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "String Theory and Holographic Duality",
+  "course_description": "This string theory course focuses on holographic duality (also known as gauge / gravity duality or AdS / CFT) as a novel method of approaching and connecting a range of diverse subjects, including quantum gravity / black holes, QCD at extreme conditions, exotic condensed matter systems, and quantum information.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "8.871",
+  "primary_course_number": "8.821",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
